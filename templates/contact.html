@@ -1,0 +1,80 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+            <article>
+                <section id="two" class="section swatch-white">
+                    <div class="container">
+                                                
+                        <div class="row">
+                            <div class="col-md-12">
+                                <header class="text-center element-normal-top element-medium-bottom">
+                                    <h1 class="super hairline bordered bordered-normal">Contact</h1>
+                                </header>
+                            </div>
+                        </div> 
+                       
+                        
+                        <div class="row">
+                            <!--
+                            <div class="col-md-6 text-left small-screen-center element-normal-bottom">
+                                <form id="contactForm" class="contact-form">
+                                    <div class="form-group form-icon-group">
+                                        <input class="form-control" id="name" name="name" placeholder="Your name *" type="text" required/>
+                                        <i class="fa fa-user"></i>
+                                    </div>
+                                    <div class="form-group form-icon-group">
+                                        <input class="form-control" id="email" name="email" placeholder="Your email *" type="email" required>
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                                    <div class="form-group form-icon-group">
+                                        <textarea class="form-control" id="message" name="message" placeholder="Your message" rows="10" required></textarea>
+                                        <i class="fa fa-pencil"></i>
+                                    </div>
+                                    <div>
+                                        <input type="submit" value="Send email" class="btn btn-primary">
+                                    </div>
+                                    <div id="messages"></div>
+                                </form>
+                            </div> 
+
+                            <div class="col-md-1 text-left small-screen-center element-no-bottom element-no-top">
+                            </div>
+                            -->
+
+                            <div class="col-md-5 text-left small-screen-center element-normal-bottom">
+                                <address>
+                                    <strong>Adres</strong><br>
+                                    Straat + Nummer<br>
+                                    Postcode<br>
+                                    PLAATS<br>
+                                    <br>
+                                    <strong>Telefoon</strong><br>
+                                    +31 ### #######<br>
+                                    <br>
+                                    <strong>Email</strong><br>
+                                    info@domain.nl<br>
+                                    <br>
+                                    <strong>Kamer van Koophandel</strong><br>
+                                    #########<br>
+                                </address>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12  text-center small-screen-center ">
+                                <div class="google-map element-no-top element-normal-bottom" id="map" style="height:356px;"></div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </section>
+            </article>
+
+{% endblock %}
+
+{% block script %}
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDD-_9LIWTiFLZ1kjJFpbiG-cvSrlZR1Ik"></script>
+        <script src="/static/assets/js/map.min.js"></script>
+        <script src="/static/assets/js/contact.min.js"></script>
+{% endblock %}

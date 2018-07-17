@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Forcyd | Better at Technology</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="yes" name="apple-mobile-web-app-capable">
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,300italic,400italic,600italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="/static/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/static/assets/css/theme.min.css">
+        <link rel="stylesheet" href="/static/assets/css/color-defaults.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-white.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-blue.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-gray.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-black.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-white-black.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-white-green.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-white-red.min.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-forcyd.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/swatch-forcyd-dark.css" media="screen">
+        <link rel="stylesheet" href="/static/assets/css/fonts.min.css" media="screen">
+        <!-- <link rel="stylesheet" href="/static/assets/css/custom.css" media="screen"> -->
+    </head>
+    <!-- <body class="normal-header"> -->
+    <body class="normal-header pace-on pace-counter">
+        <div class="pace-overlay"></div>
+
+        <div id="masthead" class="navbar navbar-static-top swatch-white navbar-sticky" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".main-navbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>                    
+                    <a href="/" class="navbar-brand"><img src="/static/assets/images/omega.gif" alt="Forcyd">Forcyd</a>
+                </div>
+                <nav class="collapse navbar-collapse main-navbar" role="navigation">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown menu-item-object-oxy_mega_menu ">
+                            <a href="/" class="dropdown-toggle">Home</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="/digital_forensics/">Digital Forensics</a>
+                                </li>
+                                <li>
+                                    <a href="/e_discovery/">eDiscovery</a>
+                                </li>
+                                <li>
+                                    <a href="/cyber_security/">Cyber Security</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="/about_us/" class="dropdown-toggle">Company</a>
+<!--                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Company</a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="/about_us/">Visie en Missie</a>
+                                </li>
+                                <li>
+                                    <a href="/about_us/">Management</a>
+                                </li>
+                            </ul> -->
+                        </li>
+                        <li class="dropdown">
+                            <a href="/contact/" class="dropdown-toggle">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div id="content">
+            {% block main %}{% endblock %}
+        </div>
+       
+        <div id="footer">
+            <footer id="footer" role="contentinfo">
+                <section class="section swatch-forcyd-dark">
+                    <div class="container">
+                        <div class="row element-normal-top element-normal-bottom">
+                            <div class="col-sm-4">
+                                <div id="archives-4" class="sidebar-widget  widget_archive">
+                                    <a href="/"><h3 class="sidebar-header">Forcyd</h3></a>
+                                    <ul>
+                                        <li>
+                                            <p>We believe in digital justice</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <div id="archives-4" class="sidebar-widget  widget_archive">
+                                    <a href="/"><h3 class="sidebar-header">Services</h3></a>
+                                    <ul>
+                                        <li>
+                                            <a href="/digital_forensics/">Digital Forensics</a>
+                                        </li>
+                                        <li>
+                                            <a href="/e_discovery/">eDiscovery</a>
+                                        </li>
+                                        <li>
+                                            <a href="/cyber_security/">Cyber Security</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <div id="categories-4" class="sidebar-widget  widget_categories">
+                                    <a href="/about_us/"><h3 class="sidebar-header">Company</h3></a>
+                                    <ul>
+                                        <li>
+                                            <a href="/about_us/">Visie en Missie</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about_us/">Management</a>
+                                        </li>                                        
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <div id="archives-4" class="sidebar-widget  widget_archive">
+                                    <a href="/disclaimer/"><h3 class="sidebar-header">Legal Notice</h3></a>
+                                    <ul>
+                                        <li>
+                                            <a href="/disclaimer/">Disclaimer</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>                            
+                            <div class="col-sm-2">
+                                <div id="archives-4" class="sidebar-widget  widget_archive">
+                                    <a href="/contact/"><h3 class="sidebar-header">Contact</h3></a>
+                                    <ul>
+                                        <li>
+                                            <p>Straat + Nummer<br>Postcode<br>PLAATS</p>
+                                        </li>
+                                        <li>
+                                            <p>+31 ### #######</p>
+                                        </li>
+                                        <li>
+                                            <p>info@domain.nl</p>
+                                        </li>
+                                     </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </footer>            
+        </div>
+
+        <script src="/static/assets/js/packages.min.js"></script>
+        <script src="/static/assets/js/theme.js"></script>
+        {% block script %}{% endblock %}
+    </body>
+</html>

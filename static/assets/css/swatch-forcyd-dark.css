@@ -1,0 +1,948 @@
+.swatch-forcyd-dark, [class*="swatch-"] .swatch-forcyd-dark {
+  background: #3494ba;
+  color: white;
+}
+.swatch-forcyd-dark h1, .swatch-forcyd-dark h2, .swatch-forcyd-dark h3, .swatch-forcyd-dark h4, .swatch-forcyd-dark h5, .swatch-forcyd-dark h6, [class*="swatch-"] .swatch-forcyd-dark h1, [class*="swatch-"] .swatch-forcyd-dark h2, [class*="swatch-"] .swatch-forcyd-dark h3, [class*="swatch-"] .swatch-forcyd-dark h4, [class*="swatch-"] .swatch-forcyd-dark h5, [class*="swatch-"] .swatch-forcyd-dark h6 {
+  color: white;
+}
+.swatch-forcyd-dark h1 small, .swatch-forcyd-dark h2 small, .swatch-forcyd-dark h3 small, .swatch-forcyd-dark h4 small, .swatch-forcyd-dark h5 small, .swatch-forcyd-dark h6 small, [class*="swatch-"] .swatch-forcyd-dark h1 small, [class*="swatch-"] .swatch-forcyd-dark h2 small, [class*="swatch-"] .swatch-forcyd-dark h3 small, [class*="swatch-"] .swatch-forcyd-dark h4 small, [class*="swatch-"] .swatch-forcyd-dark h5 small, [class*="swatch-"] .swatch-forcyd-dark h6 small {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark a, [class*="swatch-"] .swatch-forcyd-dark a {
+  color: white;
+}
+.swatch-forcyd-dark a:hover, [class*="swatch-"] .swatch-forcyd-dark a:hover {
+  color: black;
+}
+.swatch-forcyd-dark small, [class*="swatch-"] .swatch-forcyd-dark small {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark small a, [class*="swatch-"] .swatch-forcyd-dark small a {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark small a:hover, [class*="swatch-"] .swatch-forcyd-dark small a:hover {
+  color: white;
+}
+.swatch-forcyd-dark i, [class*="swatch-"] .swatch-forcyd-dark i {
+  color: #7a8c8e;
+}
+.swatch-forcyd-dark blockquote:before, [class*="swatch-"] .swatch-forcyd-dark blockquote:before {
+  background-color: #82c9ed;
+}
+.swatch-forcyd-dark blockquote small, .swatch-forcyd-dark blockquote footer, [class*="swatch-"] .swatch-forcyd-dark blockquote small, [class*="swatch-"] .swatch-forcyd-dark blockquote footer {
+  color: white;
+}
+.swatch-forcyd-dark ::selection, [class*="swatch-"] .swatch-forcyd-dark ::selection {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark ::-moz-selection, [class*="swatch-"] .swatch-forcyd-dark ::-moz-selection {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark hr, [class*="swatch-"] .swatch-forcyd-dark hr {
+  border-top-color: #e9e9e9;
+}
+.swatch-forcyd-dark pre, [class*="swatch-"] .swatch-forcyd-dark pre {
+  background: white;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .active, [class*="swatch-"] .swatch-forcyd-dark .active {
+  color: black;
+}
+.swatch-forcyd-dark .btn-primary, .swatch-forcyd-dark button, .swatch-forcyd-dark input[type="submit"], [class*="swatch-"] .swatch-forcyd-dark .btn-primary, [class*="swatch-"] .swatch-forcyd-dark button, [class*="swatch-"] .swatch-forcyd-dark input[type="submit"] {
+  background-color: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .btn-primary:hover, .swatch-forcyd-dark button:hover, .swatch-forcyd-dark input[type="submit"]:hover, [class*="swatch-"] .swatch-forcyd-dark .btn-primary:hover, [class*="swatch-"] .swatch-forcyd-dark button:hover, [class*="swatch-"] .swatch-forcyd-dark input[type="submit"]:hover {
+  background-color: rgba(88, 182, 192, 0.9);
+  color: white;
+}
+.swatch-forcyd-dark .btn-primary.btn-icon-left span, .swatch-forcyd-dark .btn-primary.btn-icon-right span, .swatch-forcyd-dark button.btn-icon-left span, .swatch-forcyd-dark button.btn-icon-right span, .swatch-forcyd-dark input[type="submit"].btn-icon-left span, .swatch-forcyd-dark input[type="submit"].btn-icon-right span, [class*="swatch-"] .swatch-forcyd-dark .btn-primary.btn-icon-left span, [class*="swatch-"] .swatch-forcyd-dark .btn-primary.btn-icon-right span, [class*="swatch-"] .swatch-forcyd-dark button.btn-icon-left span, [class*="swatch-"] .swatch-forcyd-dark button.btn-icon-right span, [class*="swatch-"] .swatch-forcyd-dark input[type="submit"].btn-icon-left span, [class*="swatch-"] .swatch-forcyd-dark input[type="submit"].btn-icon-right span {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+.swatch-forcyd-dark .btn-primary i, [class*="swatch-"] .swatch-forcyd-dark .btn-primary i {
+  color: white !important;
+}
+.swatch-forcyd-dark .btn-link, [class*="swatch-"] .swatch-forcyd-dark .btn-link {
+  background: none;
+  color: #58b6c0;
+  text-decoration: none;
+  box-shadow: 0px 0px 0px 1px #58b6c0 inset;
+}
+.swatch-forcyd-dark .btn-link span, [class*="swatch-"] .swatch-forcyd-dark .btn-link span {
+  background: none;
+}
+.swatch-forcyd-dark .btn-link i, [class*="swatch-"] .swatch-forcyd-dark .btn-link i {
+  color: #58b6c0 !important;
+}
+.swatch-forcyd-dark .btn-link:hover, [class*="swatch-"] .swatch-forcyd-dark .btn-link:hover {
+  text-decoration: none;
+  background-color: #58b6c0;
+  color: white;
+  box-shadow: 0px 0px 0px 1px #58b6c0;
+}
+.swatch-forcyd-dark .btn-link:hover i, [class*="swatch-"] .swatch-forcyd-dark .btn-link:hover i {
+  color: white !important;
+}
+.swatch-forcyd-dark .open .dropdown-toggle.btn-primary, [class*="swatch-"] .swatch-forcyd-dark .open .dropdown-toggle.btn-primary {
+  background-color: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .btn-group .dropdown-menu, [class*="swatch-"] .swatch-forcyd-dark .btn-group .dropdown-menu {
+  background-color: #58b6c0;
+}
+.swatch-forcyd-dark .btn-group .dropdown-menu > li > a, [class*="swatch-"] .swatch-forcyd-dark .btn-group .dropdown-menu > li > a {
+  color: white;
+  box-shadow: 0px -1px 0px #46aeb9;
+}
+.swatch-forcyd-dark .btn-group .dropdown-menu > li:first-child > a, [class*="swatch-"] .swatch-forcyd-dark .btn-group .dropdown-menu > li:first-child > a {
+  box-shadow: none;
+}
+.swatch-forcyd-dark .btn-group .dropdown-menu > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .btn-group .dropdown-menu > li > a:hover {
+  background: #72c1ca;
+}
+.swatch-forcyd-dark .label-primary, [class*="swatch-"] .swatch-forcyd-dark .label-primary {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .label-primary a, [class*="swatch-"] .swatch-forcyd-dark .label-primary a {
+  color: white;
+}
+.swatch-forcyd-dark select, .swatch-forcyd-dark textarea, .swatch-forcyd-dark input, .swatch-forcyd-dark .uneditable-input, .swatch-forcyd-dark .input-group-btn, [class*="swatch-"] .swatch-forcyd-dark select, [class*="swatch-"] .swatch-forcyd-dark textarea, [class*="swatch-"] .swatch-forcyd-dark input, [class*="swatch-"] .swatch-forcyd-dark .uneditable-input, [class*="swatch-"] .swatch-forcyd-dark .input-group-btn {
+  background: #e9e9e9;
+  color: #4c4c4c;
+}
+.swatch-forcyd-dark select:-moz-placeholder, .swatch-forcyd-dark textarea:-moz-placeholder, .swatch-forcyd-dark input:-moz-placeholder, .swatch-forcyd-dark .uneditable-input:-moz-placeholder, .swatch-forcyd-dark .input-group-btn:-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark select:-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark textarea:-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark input:-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark .uneditable-input:-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark .input-group-btn:-moz-placeholder {
+  color: #8c8c8c;
+}
+.swatch-forcyd-dark select::-moz-placeholder, .swatch-forcyd-dark textarea::-moz-placeholder, .swatch-forcyd-dark input::-moz-placeholder, .swatch-forcyd-dark .uneditable-input::-moz-placeholder, .swatch-forcyd-dark .input-group-btn::-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark select::-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark textarea::-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark input::-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark .uneditable-input::-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark .input-group-btn::-moz-placeholder {
+  color: #8c8c8c;
+}
+.swatch-forcyd-dark select:-ms-input-placeholder, .swatch-forcyd-dark textarea:-ms-input-placeholder, .swatch-forcyd-dark input:-ms-input-placeholder, .swatch-forcyd-dark .uneditable-input:-ms-input-placeholder, .swatch-forcyd-dark .input-group-btn:-ms-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark select:-ms-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark textarea:-ms-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark input:-ms-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark .uneditable-input:-ms-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark .input-group-btn:-ms-input-placeholder {
+  color: #8c8c8c;
+}
+.swatch-forcyd-dark select::-webkit-input-placeholder, .swatch-forcyd-dark textarea::-webkit-input-placeholder, .swatch-forcyd-dark input::-webkit-input-placeholder, .swatch-forcyd-dark .uneditable-input::-webkit-input-placeholder, .swatch-forcyd-dark .input-group-btn::-webkit-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark select::-webkit-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark textarea::-webkit-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark input::-webkit-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark .uneditable-input::-webkit-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark .input-group-btn::-webkit-input-placeholder {
+  color: #8c8c8c;
+}
+.swatch-forcyd-dark input:focus, .swatch-forcyd-dark textarea:focus, .swatch-forcyd-dark select.form-control:focus, [class*="swatch-"] .swatch-forcyd-dark input:focus, [class*="swatch-"] .swatch-forcyd-dark textarea:focus, [class*="swatch-"] .swatch-forcyd-dark select.form-control:focus {
+  -moz-box-shadow: 0px 3px 0px #82c9ed;
+  -webkit-box-shadow: 0px 3px 0px #82c9ed;
+  box-shadow: 0px 3px 0px #82c9ed;
+}
+.swatch-forcyd-dark input[type="checkbox"], .swatch-forcyd-dark input[type="radio"], [class*="swatch-"] .swatch-forcyd-dark input[type="checkbox"], [class*="swatch-"] .swatch-forcyd-dark input[type="radio"] {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.swatch-forcyd-dark .form-icon-group i, [class*="swatch-"] .swatch-forcyd-dark .form-icon-group i {
+  color: #82c9ed;
+}
+.swatch-forcyd-dark input[type="button"], [class*="swatch-"] .swatch-forcyd-dark input[type="button"] {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .select-wrap, [class*="swatch-"] .swatch-forcyd-dark .select-wrap {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .select-wrap:after, [class*="swatch-"] .swatch-forcyd-dark .select-wrap:after {
+  color: #4c4c4c;
+}
+.swatch-forcyd-dark .table th, [class*="swatch-"] .swatch-forcyd-dark .table th {
+  background-color: #82c9ed;
+  text-transform: uppercase;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .table th, .swatch-forcyd-dark .table td, .swatch-forcyd-dark .table-bordered, [class*="swatch-"] .swatch-forcyd-dark .table th, [class*="swatch-"] .swatch-forcyd-dark .table td, [class*="swatch-"] .swatch-forcyd-dark .table-bordered {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .table-hover tbody tr:hover th, [class*="swatch-"] .swatch-forcyd-dark .table-hover tbody tr:hover th {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .table-striped > tbody > tr:nth-child(odd) > td, .swatch-forcyd-dark .table-striped > tbody > tr:nth-child(odd) > th, .swatch-forcyd-dark .table-hover > tbody > tr:hover > td, .swatch-forcyd-dark .table-hover > tbody > tr:hover > th, [class*="swatch-"] .swatch-forcyd-dark .table-striped > tbody > tr:nth-child(odd) > td, [class*="swatch-"] .swatch-forcyd-dark .table-striped > tbody > tr:nth-child(odd) > th, [class*="swatch-"] .swatch-forcyd-dark .table-hover > tbody > tr:hover > td, [class*="swatch-"] .swatch-forcyd-dark .table-hover > tbody > tr:hover > th {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark#masthead, [class*="swatch-"] .swatch-forcyd-dark#masthead {
+  border-color: #3494ba;
+}
+.swatch-forcyd-dark.navbar, [class*="swatch-"] .swatch-forcyd-dark.navbar {
+  background: #3494ba;
+  color: white;
+}
+.swatch-forcyd-dark .navbar-text, [class*="swatch-"] .swatch-forcyd-dark .navbar-text {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .navbar-brand, [class*="swatch-"] .swatch-forcyd-dark.navbar .navbar-brand {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .navbar-brand:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar .navbar-brand:hover {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .nav > li > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .nav > li > a:hover, .swatch-forcyd-dark.navbar .nav > li > a:focus, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a:focus {
+  color: white;
+  background: none;
+}
+.swatch-forcyd-dark.navbar .nav > li > a:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a:before {
+  background-color: white;
+}
+.swatch-forcyd-dark.navbar a .menu-icon, [class*="swatch-"] .swatch-forcyd-dark.navbar a .menu-icon {
+  color: white;
+}
+.swatch-forcyd-dark.navbar a:hover .menu-icon, [class*="swatch-"] .swatch-forcyd-dark.navbar a:hover .menu-icon {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .dropdown-menu a:hover .menu-icon, [class*="swatch-"] .swatch-forcyd-dark.navbar .dropdown-menu a:hover .menu-icon {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .navbar-toggle, [class*="swatch-"] .swatch-forcyd-dark .navbar-toggle {
+  background: none !important;
+}
+.swatch-forcyd-dark .navbar-toggle .icon-bar, [class*="swatch-"] .swatch-forcyd-dark .navbar-toggle .icon-bar {
+  background-color: white;
+}
+.swatch-forcyd-dark .navbar-toggle:hover, [class*="swatch-"] .swatch-forcyd-dark .navbar-toggle:hover {
+  background: none;
+}
+.swatch-forcyd-dark.navbar .nav > li > a:focus, .swatch-forcyd-dark.navbar .nav > li > a:hover, .swatch-forcyd-dark.navbar .nav > .active > a, .swatch-forcyd-dark.navbar .nav > .active > a:hover, .swatch-forcyd-dark.navbar .nav > .current-menu-parent > a, .swatch-forcyd-dark.navbar .nav > .current-menu-ancestor > a, .swatch-forcyd-dark.navbar .nav > .current-menu-item > a, .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:hover, .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:focus, .swatch-forcyd-dark.navbar .nav > .active > a:focus, .swatch-forcyd-dark.navbar .nav li.dropdown.open > .dropdown-toggle, .swatch-forcyd-dark.navbar .nav li.dropdown.active > .dropdown-toggle, .swatch-forcyd-dark.navbar .nav li.dropdown.open.active > .dropdown-toggle, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a:focus, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .active > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .active > a:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-parent > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-ancestor > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-item > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:focus, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .active > a:focus, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav li.dropdown.open > .dropdown-toggle, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav li.dropdown.active > .dropdown-toggle, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav li.dropdown.open.active > .dropdown-toggle {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .nav > li > a:focus:before, .swatch-forcyd-dark.navbar .nav > li > a:hover:before, .swatch-forcyd-dark.navbar .nav > .active > a:before, .swatch-forcyd-dark.navbar .nav > .active > a:hover:before, .swatch-forcyd-dark.navbar .nav > .current-menu-parent > a:before, .swatch-forcyd-dark.navbar .nav > .current-menu-ancestor > a:before, .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:before, .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:hover:before, .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:focus:before, .swatch-forcyd-dark.navbar .nav > .active > a:focus:before, .swatch-forcyd-dark.navbar .nav li.dropdown.open > .dropdown-toggle:before, .swatch-forcyd-dark.navbar .nav li.dropdown.active > .dropdown-toggle:before, .swatch-forcyd-dark.navbar .nav li.dropdown.open.active > .dropdown-toggle:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a:focus:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a:hover:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .active > a:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .active > a:hover:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-parent > a:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-ancestor > a:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:hover:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .current-menu-item > a:focus:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .active > a:focus:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav li.dropdown.open > .dropdown-toggle:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav li.dropdown.active > .dropdown-toggle:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav li.dropdown.open.active > .dropdown-toggle:before {
+  background-color: white;
+}
+.swatch-forcyd-dark.navbar .nav > .disabled > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .disabled > a {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .nav > .disabled > a:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > .disabled > a:before {
+  display: none;
+}
+.swatch-forcyd-dark .dropdown-menu, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu {
+  background-color: rgba(52, 148, 186, 0.95);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1), 0px 3px 0px #82c9ed inset;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1), 0px 3px 0px #82c9ed inset;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1), 0px 3px 0px #82c9ed inset;
+}
+.swatch-forcyd-dark .dropdown-menu > li > a, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > li > a {
+  color: white;
+}
+.swatch-forcyd-dark .dropdown-menu > li > a:hover, .swatch-forcyd-dark .dropdown-menu > .active > a, .swatch-forcyd-dark .dropdown-menu > .active > a:hover, .swatch-forcyd-dark .dropdown-menu > .active > a:focus, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > .active > a, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > .active > a:hover, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > .active > a:focus {
+  background: white;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .dropdown-menu > li > a:hover i, .swatch-forcyd-dark .dropdown-menu > .active > a i, .swatch-forcyd-dark .dropdown-menu > .active > a:hover i, .swatch-forcyd-dark .dropdown-menu > .active > a:focus i, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > li > a:hover i, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > .active > a i, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > .active > a:hover i, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > .active > a:focus i {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .dropdown-menu > li.disabled > a:hover, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu > li.disabled > a:hover {
+  color: white;
+}
+.swatch-forcyd-dark.navbar .nav > li > .dropdown-menu:after, .swatch-forcyd-dark.navbar .nav > li > .dropdown-menu:before, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > .dropdown-menu:after, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > .dropdown-menu:before {
+  display: none;
+}
+.swatch-forcyd-dark.navbar-scrolled, [class*="swatch-"] .swatch-forcyd-dark.navbar-scrolled {
+  background: rgba(52, 148, 186, 0.95);
+}
+.swatch-forcyd-dark .dropdown-submenu > a:after, [class*="swatch-"] .swatch-forcyd-dark .dropdown-submenu > a:after {
+  border-left-color: white !important;
+}
+.swatch-forcyd-dark .dropdown-submenu > a:hover:after, [class*="swatch-"] .swatch-forcyd-dark .dropdown-submenu > a:hover:after {
+  border-left-color: #3494ba !important;
+}
+.swatch-forcyd-dark .dropdown-menu .divider, [class*="swatch-"] .swatch-forcyd-dark .dropdown-menu .divider {
+  background-color: rgba(233, 233, 233, 0.8);
+}
+.swatch-forcyd-dark.navbar .nav-highlight > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav-highlight > a {
+  color: #3494ba !important;
+}
+.swatch-forcyd-dark.navbar .nav-highlight > a:after, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav-highlight > a:after {
+  background: white;
+}
+.swatch-forcyd-dark.navbar .nav-highlight > a:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav-highlight > a:hover {
+  color: #3494ba !important;
+}
+.swatch-forcyd-dark.navbar .nav-highlight > a:hover:after, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav-highlight > a:hover:after {
+  background: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark.navbar li.nav-highlight-ghost > a, [class*="swatch-"] .swatch-forcyd-dark.navbar li.nav-highlight-ghost > a {
+  color: white;
+}
+.swatch-forcyd-dark.navbar li.nav-highlight-ghost > a:after, [class*="swatch-"] .swatch-forcyd-dark.navbar li.nav-highlight-ghost > a:after {
+  border: 1px solid white;
+}
+.swatch-forcyd-dark.navbar li.nav-highlight-ghost > a:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar li.nav-highlight-ghost > a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark.navbar li.nav-highlight-ghost > a:hover:after, [class*="swatch-"] .swatch-forcyd-dark.navbar li.nav-highlight-ghost > a:hover:after {
+  border-color: rgba(255, 255, 255, 0.8);
+}
+.transparent-header .swatch-forcyd-dark.navbar, .transparent-header [class*="swatch-"] .swatch-forcyd-dark.navbar {
+  background: none;
+}
+.transparent-header .swatch-forcyd-dark.navbar-scrolled, .transparent-header [class*="swatch-"] .swatch-forcyd-dark.navbar-scrolled {
+  background: rgba(52, 148, 186, 0.95) !important;
+}
+.transparent-header .swatch-forcyd-dark.search-active, .transparent-header [class*="swatch-"] .swatch-forcyd-dark.search-active {
+  background: #3494ba !important;
+}
+.swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a {
+  color: white;
+}
+.swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a:hover {
+  background: transparent;
+  color: white;
+}
+.swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a:hover .menu-icon, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a:hover .menu-icon {
+  color: white;
+}
+.swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li.current-menu-item > a, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li.current-menu-item > a {
+  color: white;
+}
+.swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > p, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > p {
+  border-bottom-color: rgba(233, 233, 233, 0.8);
+}
+.swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li:before, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li:before {
+  background: rgba(233, 233, 233, 0.8);
+}
+@media (max-width: 992px) {
+  .swatch-forcyd-dark.navbar .nav > li > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .nav > li > a {
+    border-radius: 0;
+  }
+  .swatch-forcyd-dark.navbar .dropdown-menu, [class*="swatch-"] .swatch-forcyd-dark.navbar .dropdown-menu {
+    background: #e9e9e9;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .swatch-forcyd-dark.navbar .dropdown-menu > li > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .dropdown-menu > li > a {
+    border-radius: 0;
+  }
+  .swatch-forcyd-dark.navbar .dropdown-menu > li > a:hover, .swatch-forcyd-dark.navbar .dropdown-menu > li > a:focus, .swatch-forcyd-dark.navbar .dropdown-menu > li.active > a, [class*="swatch-"] .swatch-forcyd-dark.navbar .dropdown-menu > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark.navbar .dropdown-menu > li > a:focus, [class*="swatch-"] .swatch-forcyd-dark.navbar .dropdown-menu > li.active > a {
+    background: white;
+    color: #3494ba;
+  }
+  .swatch-forcyd-dark .dropdown-submenu > ul > li > a, [class*="swatch-"] .swatch-forcyd-dark .dropdown-submenu > ul > li > a {
+    background: #e9e9e9;
+  }
+  .swatch-forcyd-dark .dropdown-submenu > ul > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .dropdown-submenu > ul > li > a:hover {
+    background: #e9e9e9;
+  }
+  .swatch-forcyd-dark .dropdown-submenu > a:after, [class*="swatch-"] .swatch-forcyd-dark .dropdown-submenu > a:after {
+    border-left-color: transparent !important;
+    border-top-color: white !important;
+  }
+  .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li > a:hover {
+    background: white;
+    color: #3494ba;
+  }
+  .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li:before, [class*="swatch-"] .swatch-forcyd-dark .menu-item-object-oxy_mega_menu .dropdown-menu > li:before {
+    display: none;
+  }
+  .swatch-forcyd-dark .nav-highlight > a, [class*="swatch-"] .swatch-forcyd-dark .nav-highlight > a {
+    color: white !important;
+  }
+  .swatch-forcyd-dark .nav-highlight > a:after, [class*="swatch-"] .swatch-forcyd-dark .nav-highlight > a:after {
+    background: transparent;
+  }
+  .swatch-forcyd-dark .nav-highlight > a:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-highlight > a:hover {
+    color: white !important;
+  }
+  .swatch-forcyd-dark .nav-highlight > a:hover:after, [class*="swatch-"] .swatch-forcyd-dark .nav-highlight > a:hover:after {
+    background: transparent;
+  }
+  .transparent-header .swatch-forcyd-dark .navbar-collapse, .transparent-header [class*="swatch-"] .swatch-forcyd-dark .navbar-collapse {
+    background: rgba(52, 148, 186, 0.95) !important;
+  }
+}
+.swatch-forcyd-dark .pagination > li > a, .swatch-forcyd-dark .pagination > li > span, [class*="swatch-"] .swatch-forcyd-dark .pagination > li > a, [class*="swatch-"] .swatch-forcyd-dark .pagination > li > span {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .pagination > .active > a, .swatch-forcyd-dark .pagination > .active > span, .swatch-forcyd-dark .pagination > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .pagination > .active > a, [class*="swatch-"] .swatch-forcyd-dark .pagination > .active > span, [class*="swatch-"] .swatch-forcyd-dark .pagination > li > a:hover {
+  background: rgba(88, 182, 192, 0.8);
+}
+.swatch-forcyd-dark .pagination > .active > a i, .swatch-forcyd-dark .pagination > .active > span i, .swatch-forcyd-dark .pagination > li > a:hover i, [class*="swatch-"] .swatch-forcyd-dark .pagination > .active > a i, [class*="swatch-"] .swatch-forcyd-dark .pagination > .active > span i, [class*="swatch-"] .swatch-forcyd-dark .pagination > li > a:hover i {
+  color: white;
+}
+.swatch-forcyd-dark .pagination > li:first-child i, .swatch-forcyd-dark .pagination > li:last-child i, [class*="swatch-"] .swatch-forcyd-dark .pagination > li:first-child i, [class*="swatch-"] .swatch-forcyd-dark .pagination > li:last-child i {
+  color: white;
+}
+.swatch-forcyd-dark .pagination > li.disabled span i, [class*="swatch-"] .swatch-forcyd-dark .pagination > li.disabled span i {
+  color: rgba(255, 255, 255, 0.4);
+}
+.swatch-forcyd-dark .pager > li > a, [class*="swatch-"] .swatch-forcyd-dark .pager > li > a {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .pager > li > a i, [class*="swatch-"] .swatch-forcyd-dark .pager > li > a i {
+  color: white;
+}
+.swatch-forcyd-dark .tooltip-inner, [class*="swatch-"] .swatch-forcyd-dark .tooltip-inner {
+  background-color: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .tooltip.in, [class*="swatch-"] .swatch-forcyd-dark .tooltip.in {
+  opacity: 1;
+}
+.swatch-forcyd-dark .tooltip.top .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tooltip.top .tooltip-arrow {
+  border-top-color: #82c9ed;
+}
+.swatch-forcyd-dark .tooltip.right .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tooltip.right .tooltip-arrow {
+  border-right-color: #82c9ed;
+}
+.swatch-forcyd-dark .tooltip.left .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tooltip.left .tooltip-arrow {
+  border-left-color: #82c9ed;
+}
+.swatch-forcyd-dark .tooltip.bottom .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tooltip.bottom .tooltip-arrow {
+  border-bottom-color: #82c9ed;
+}
+.swatch-forcyd-dark .jumbotron, [class*="swatch-"] .swatch-forcyd-dark .jumbotron {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .progress-bar-primary, [class*="swatch-"] .swatch-forcyd-dark .progress-bar-primary {
+  background: #58b6c0;
+  box-shadow: none;
+}
+.swatch-forcyd-dark .progress-bar-primary span, [class*="swatch-"] .swatch-forcyd-dark .progress-bar-primary span {
+  color: white;
+}
+.swatch-forcyd-dark .progress-bar-primary.progress-striped .progress-bar, .swatch-forcyd-dark .progress-striped .progress-bar-primary, [class*="swatch-"] .swatch-forcyd-dark .progress-bar-primary.progress-striped .progress-bar, [class*="swatch-"] .swatch-forcyd-dark .progress-striped .progress-bar-primary {
+  background-color: #58b6c0;
+  background-image: -webkit-gradient(linear, 0 100%, 100% 0, color-stop(0.25, rgba(255, 255, 255, 0.15)), color-stop(0.25, transparent), color-stop(0.5, transparent), color-stop(0.5, rgba(255, 255, 255, 0.15)), color-stop(0.75, rgba(255, 255, 255, 0.15)), color-stop(0.75, transparent), to(transparent));
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0));
+  background-size: 40px 40px;
+}
+.swatch-forcyd-dark .badge, [class*="swatch-"] .swatch-forcyd-dark .badge {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .tab-content, .swatch-forcyd-dark .nav-tabs .active a, .swatch-forcyd-dark .tab-content, .swatch-forcyd-dark .nav-tabs .active a:hover, [class*="swatch-"] .swatch-forcyd-dark .tab-content, [class*="swatch-"] .swatch-forcyd-dark .nav-tabs .active a, [class*="swatch-"] .swatch-forcyd-dark .tab-content, [class*="swatch-"] .swatch-forcyd-dark .nav-tabs .active a:hover {
+  background: #82c9ed;
+}
+.swatch-forcyd-dark .nav-tabs > li > a:hover, .swatch-forcyd-dark .nav-tabs > li > a:focus, [class*="swatch-"] .swatch-forcyd-dark .nav-tabs > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-tabs > li > a:focus {
+  color: #3494ba;
+  background-color: #82c9ed;
+}
+.swatch-forcyd-dark .nav-tabs > li.active > a, [class*="swatch-"] .swatch-forcyd-dark .nav-tabs > li.active > a {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .nav-tabs > li.active > a:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-tabs > li.active > a:hover {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .nav-pills > li > a .badge, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > li > a .badge {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .nav-pills > .active > a, .swatch-forcyd-dark .nav-pills > .active > a:hover, .swatch-forcyd-dark .nav-pills > li > a:hover, .swatch-forcyd-dark .nav-pills > li > a:focus, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > .active > a, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > .active > a:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > li > a:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > li > a:focus {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .nav-pills > .active > a .badge, .swatch-forcyd-dark .nav-pills > .active > a:hover .badge, .swatch-forcyd-dark .nav-pills > li > a:hover .badge, .swatch-forcyd-dark .nav-pills > li > a:focus .badge, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > .active > a .badge, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > .active > a:hover .badge, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > li > a:hover .badge, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > li > a:focus .badge {
+  background: #3494ba;
+  color: #82c9ed;
+}
+.swatch-forcyd-dark .nav-pills > .active > a:hover, .swatch-forcyd-dark .nav-pills > .active > a:hover:hover, .swatch-forcyd-dark .nav-pills > li > a:hover:hover, .swatch-forcyd-dark .nav-pills > li > a:focus:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > .active > a:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > .active > a:hover:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > li > a:hover:hover, [class*="swatch-"] .swatch-forcyd-dark .nav-pills > li > a:focus:hover {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .tab-pane, .swatch-forcyd-dark .tab-pane.active, [class*="swatch-"] .swatch-forcyd-dark .tab-pane, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .tab-pane h1, .swatch-forcyd-dark .tab-pane h2, .swatch-forcyd-dark .tab-pane h3, .swatch-forcyd-dark .tab-pane h4, .swatch-forcyd-dark .tab-pane h5, .swatch-forcyd-dark .tab-pane h6, .swatch-forcyd-dark .tab-pane a, .swatch-forcyd-dark .tab-pane p, .swatch-forcyd-dark .tab-pane.active h1, .swatch-forcyd-dark .tab-pane.active h2, .swatch-forcyd-dark .tab-pane.active h3, .swatch-forcyd-dark .tab-pane.active h4, .swatch-forcyd-dark .tab-pane.active h5, .swatch-forcyd-dark .tab-pane.active h6, .swatch-forcyd-dark .tab-pane.active a, .swatch-forcyd-dark .tab-pane.active p, [class*="swatch-"] .swatch-forcyd-dark .tab-pane h1, [class*="swatch-"] .swatch-forcyd-dark .tab-pane h2, [class*="swatch-"] .swatch-forcyd-dark .tab-pane h3, [class*="swatch-"] .swatch-forcyd-dark .tab-pane h4, [class*="swatch-"] .swatch-forcyd-dark .tab-pane h5, [class*="swatch-"] .swatch-forcyd-dark .tab-pane h6, [class*="swatch-"] .swatch-forcyd-dark .tab-pane a, [class*="swatch-"] .swatch-forcyd-dark .tab-pane p, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active h1, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active h2, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active h3, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active h4, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active h5, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active h6, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active a, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active p {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .tab-pane .btn, .swatch-forcyd-dark .tab-pane.active .btn, [class*="swatch-"] .swatch-forcyd-dark .tab-pane .btn, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active .btn {
+  color: #82c9ed !important;
+  background: #3494ba !important;
+}
+.swatch-forcyd-dark .tab-pane .tooltip-inner, .swatch-forcyd-dark .tab-pane.active .tooltip-inner, [class*="swatch-"] .swatch-forcyd-dark .tab-pane .tooltip-inner, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active .tooltip-inner {
+  background-color: #3494ba;
+  color: #82c9ed;
+}
+.swatch-forcyd-dark .tab-pane .tooltip.top .tooltip-arrow, .swatch-forcyd-dark .tab-pane.active .tooltip.top .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane .tooltip.top .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active .tooltip.top .tooltip-arrow {
+  border-top-color: #3494ba;
+}
+.swatch-forcyd-dark .tab-pane .tooltip.right .tooltip-arrow, .swatch-forcyd-dark .tab-pane.active .tooltip.right .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane .tooltip.right .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active .tooltip.right .tooltip-arrow {
+  border-right-color: #3494ba;
+}
+.swatch-forcyd-dark .tab-pane .tooltip.left .tooltip-arrow, .swatch-forcyd-dark .tab-pane.active .tooltip.left .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane .tooltip.left .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active .tooltip.left .tooltip-arrow {
+  border-left-color: #3494ba;
+}
+.swatch-forcyd-dark .tab-pane .tooltip.bottom .tooltip-arrow, .swatch-forcyd-dark .tab-pane.active .tooltip.bottom .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane .tooltip.bottom .tooltip-arrow, [class*="swatch-"] .swatch-forcyd-dark .tab-pane.active .tooltip.bottom .tooltip-arrow {
+  border-bottom-color: #3494ba;
+}
+.swatch-forcyd-dark .panel, .swatch-forcyd-dark .well, [class*="swatch-"] .swatch-forcyd-dark .panel, [class*="swatch-"] .swatch-forcyd-dark .well {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .panel-primary .panel-heading, [class*="swatch-"] .swatch-forcyd-dark .panel-primary .panel-heading {
+  background: #58b6c0;
+}
+.swatch-forcyd-dark .panel-primary .panel-heading a, .swatch-forcyd-dark .panel-primary .panel-heading .panel-title, [class*="swatch-"] .swatch-forcyd-dark .panel-primary .panel-heading a, [class*="swatch-"] .swatch-forcyd-dark .panel-primary .panel-heading .panel-title {
+  color: white;
+  text-decoration: none;
+}
+.swatch-forcyd-dark .panel-primary > .panel-heading + .panel-collapse .panel-body, [class*="swatch-"] .swatch-forcyd-dark .panel-primary > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #388b94;
+}
+.swatch-forcyd-dark .panel-footer, [class*="swatch-"] .swatch-forcyd-dark .panel-footer {
+  background: #6bbec7;
+  border-color: #46aeb9;
+}
+.swatch-forcyd-dark .panel .table, [class*="swatch-"] .swatch-forcyd-dark .panel .table {
+  box-shadow: 0px 0px 0px 1px #e9e9e9 inset;
+}
+.swatch-forcyd-dark .panel .table th, [class*="swatch-"] .swatch-forcyd-dark .panel .table th {
+  background: #e9e9e9;
+  color: white;
+}
+.swatch-forcyd-dark .portfolio-title, [class*="swatch-"] .swatch-forcyd-dark .portfolio-title {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .portfolio-nav svg, [class*="swatch-"] .swatch-forcyd-dark .portfolio-nav svg {
+  stroke: white;
+}
+.swatch-forcyd-dark .social-icons li a, [class*="swatch-"] .swatch-forcyd-dark .social-icons li a {
+  background-color: #82c9ed;
+}
+.swatch-forcyd-dark .social-icons li a i, [class*="swatch-"] .swatch-forcyd-dark .social-icons li a i {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .social-icons li a:not([data-iconcolor]):hover, [class*="swatch-"] .swatch-forcyd-dark .social-icons li a:not([data-iconcolor]):hover {
+  background-color: rgba(130, 201, 237, 0.8);
+}
+.swatch-forcyd-dark .social-simple li a i, [class*="swatch-"] .swatch-forcyd-dark .social-simple li a i {
+  color: white;
+}
+.swatch-forcyd-dark .social-simple li a:not([data-iconcolor]):hover i, [class*="swatch-"] .swatch-forcyd-dark .social-simple li a:not([data-iconcolor]):hover i {
+  color: white;
+}
+.swatch-forcyd-dark .box-inner, [class*="swatch-"] .swatch-forcyd-dark .box-inner {
+  background-color: #84acb6;
+}
+.swatch-forcyd-dark .box:not(.box-simple) a.box-inner:hover, [class*="swatch-"] .swatch-forcyd-dark .box:not(.box-simple) a.box-inner:hover {
+  background: none !important;
+  box-shadow: 0px 0px 0px 1px #7a8c8e inset;
+}
+.swatch-forcyd-dark .box:not(.box-simple) a.box-inner:hover svg, [class*="swatch-"] .swatch-forcyd-dark .box:not(.box-simple) a.box-inner:hover svg {
+  stroke: #7a8c8e;
+}
+.swatch-forcyd-dark .bordered:after, [class*="swatch-"] .swatch-forcyd-dark .bordered:after {
+  background-color: white;
+}
+.swatch-forcyd-dark .bordered-link:after, [class*="swatch-"] .swatch-forcyd-dark .bordered-link:after {
+  background-color: white !important;
+}
+.swatch-forcyd-dark .bordered > a:after, [class*="swatch-"] .swatch-forcyd-dark .bordered > a:after {
+  background-color: white;
+}
+.swatch-forcyd-dark .bordered-link:after, [class*="swatch-"] .swatch-forcyd-dark .bordered-link:after {
+  background-color: white !important;
+}
+.swatch-forcyd-dark #infscr-loading, [class*="swatch-"] .swatch-forcyd-dark #infscr-loading {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .counter .value, [class*="swatch-"] .swatch-forcyd-dark .counter .value {
+  color: white;
+}
+.swatch-forcyd-dark .scroll-to, [class*="swatch-"] .swatch-forcyd-dark .scroll-to {
+  border-color: white;
+}
+.swatch-forcyd-dark .scroll-to svg, [class*="swatch-"] .swatch-forcyd-dark .scroll-to svg {
+  stroke: white;
+}
+.swatch-forcyd-dark .scroll-to:hover, [class*="swatch-"] .swatch-forcyd-dark .scroll-to:hover {
+  border-color: #7a8c8e;
+}
+.swatch-forcyd-dark .scroll-to:hover svg, [class*="swatch-"] .swatch-forcyd-dark .scroll-to:hover svg {
+  stroke: #7a8c8e;
+}
+.swatch-forcyd-dark .map-marker-label, [class*="swatch-"] .swatch-forcyd-dark .map-marker-label {
+  border-top-color: white;
+}
+.swatch-forcyd-dark .tag-list span, [class*="swatch-"] .swatch-forcyd-dark .tag-list span {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .mejs-audio, [class*="swatch-"] .swatch-forcyd-dark .mejs-audio {
+  background-color: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .mejs-container .mejs-controls .mejs-time span, [class*="swatch-"] .swatch-forcyd-dark .mejs-container .mejs-controls .mejs-time span {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .mejs-controls .mejs-button button:hover, [class*="swatch-"] .swatch-forcyd-dark .mejs-controls .mejs-button button:hover {
+  background-color: transparent;
+}
+.swatch-forcyd-dark .mejs-controls .mejs-time-rail .mejs-time-loaded, [class*="swatch-"] .swatch-forcyd-dark .mejs-controls .mejs-time-rail .mejs-time-loaded {
+  background: #3494ba;
+}
+.swatch-forcyd-dark .mejs-controls .mejs-time-rail .mejs-time-current, .swatch-forcyd-dark .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current, [class*="swatch-"] .swatch-forcyd-dark .mejs-controls .mejs-time-rail .mejs-time-current, [class*="swatch-"] .swatch-forcyd-dark .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .post:after, [class*="swatch-"] .swatch-forcyd-dark .post:after {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .post-icon, [class*="swatch-"] .swatch-forcyd-dark .post-icon {
+  background: #58b6c0;
+}
+.swatch-forcyd-dark .post-icon i, [class*="swatch-"] .swatch-forcyd-dark .post-icon i {
+  color: white;
+}
+.swatch-forcyd-dark .post-search-icon, [class*="swatch-"] .swatch-forcyd-dark .post-search-icon {
+  color: white;
+  text-shadow: 2px 2px 1px rgba(255, 255, 255, 0.2);
+}
+.swatch-forcyd-dark .post-extras a, [class*="swatch-"] .swatch-forcyd-dark .post-extras a {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark .post-extras a:hover, [class*="swatch-"] .swatch-forcyd-dark .post-extras a:hover {
+  color: white;
+}
+.swatch-forcyd-dark .post-extras i, [class*="swatch-"] .swatch-forcyd-dark .post-extras i {
+  color: white;
+}
+.swatch-forcyd-dark .post-more-link i, [class*="swatch-"] .swatch-forcyd-dark .post-more-link i {
+  color: white;
+}
+.swatch-forcyd-dark .media-inner:after, [class*="swatch-"] .swatch-forcyd-dark .media-inner:after {
+  background: #82c9ed;
+}
+.swatch-forcyd-dark .author-info, [class*="swatch-"] .swatch-forcyd-dark .author-info {
+  background-color: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .author-info .media-heading, [class*="swatch-"] .swatch-forcyd-dark .author-info .media-heading {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .author-info .media-heading:after, [class*="swatch-"] .swatch-forcyd-dark .author-info .media-heading:after {
+  background: #3494ba;
+}
+.post-masonry .swatch-forcyd-dark:hover, .post-masonry [class*="swatch-"] .swatch-forcyd-dark:hover {
+  color: white;
+}
+.swatch-forcyd-dark .breadcrumb-blog a, .swatch-forcyd-dark .breadcrumb-blog .active, [class*="swatch-"] .swatch-forcyd-dark .breadcrumb-blog a, [class*="swatch-"] .swatch-forcyd-dark .breadcrumb-blog .active {
+  color: white;
+}
+.swatch-forcyd-dark .breadcrumb-blog a:hover, [class*="swatch-"] .swatch-forcyd-dark .breadcrumb-blog a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark .post-related-post, [class*="swatch-"] .swatch-forcyd-dark .post-related-post {
+  background-color: #82c9ed;
+}
+.swatch-forcyd-dark .post-related-post a, [class*="swatch-"] .swatch-forcyd-dark .post-related-post a {
+  background: rgba(255, 255, 255, 0.9);
+  color: #3494ba;
+}
+.swatch-forcyd-dark .post-related-post a:hover, [class*="swatch-"] .swatch-forcyd-dark .post-related-post a:hover {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .post-related-post small, [class*="swatch-"] .swatch-forcyd-dark .post-related-post small {
+  background: #3494ba;
+  color: white;
+}
+.swatch-forcyd-dark .post-related-post blockquote, [class*="swatch-"] .swatch-forcyd-dark .post-related-post blockquote {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .post-related-post blockquote small, [class*="swatch-"] .swatch-forcyd-dark .post-related-post blockquote small {
+  background: rgba(255, 255, 255, 0.9);
+  color: #3494ba;
+}
+.swatch-forcyd-dark .post-related-post blockquote:before, [class*="swatch-"] .swatch-forcyd-dark .post-related-post blockquote:before {
+  background-color: #63bce9;
+}
+.swatch-forcyd-dark .post-sticky, [class*="swatch-"] .swatch-forcyd-dark .post-sticky {
+  background: rgba(88, 182, 192, 0.8);
+}
+.swatch-forcyd-dark .post-sticky i, [class*="swatch-"] .swatch-forcyd-dark .post-sticky i {
+  color: white;
+}
+.swatch-forcyd-dark .gform_wrapper .gsection, [class*="swatch-"] .swatch-forcyd-dark .gform_wrapper .gsection {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .gf_progressbar, [class*="swatch-"] .swatch-forcyd-dark .gf_progressbar {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .gf_progressbar_percentage, [class*="swatch-"] .swatch-forcyd-dark .gf_progressbar_percentage {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .sidebar, [class*="swatch-"] .swatch-forcyd-dark .sidebar {
+  color: white;
+}
+.swatch-forcyd-dark .sidebar h3, [class*="swatch-"] .swatch-forcyd-dark .sidebar h3 {
+  color: white;
+}
+.swatch-forcyd-dark .sidebar a, [class*="swatch-"] .swatch-forcyd-dark .sidebar a {
+  color: white;
+}
+.swatch-forcyd-dark .sidebar a:hover, [class*="swatch-"] .swatch-forcyd-dark .sidebar a:hover {
+  color: white;
+}
+.swatch-forcyd-dark .sidebar-header:after, [class*="swatch-"] .swatch-forcyd-dark .sidebar-header:after {
+  background: #82c9ed;
+}
+.swatch-forcyd-dark .sidebar-widget .post-icon, [class*="swatch-"] .swatch-forcyd-dark .sidebar-widget .post-icon {
+  background: #58b6c0;
+}
+.swatch-forcyd-dark .sidebar-widget .post-icon i, [class*="swatch-"] .swatch-forcyd-dark .sidebar-widget .post-icon i {
+  color: white;
+}
+.swatch-forcyd-dark .widget_recent_entries li, [class*="swatch-"] .swatch-forcyd-dark .widget_recent_entries li {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .widget_tag_cloud ul a, [class*="swatch-"] .swatch-forcyd-dark .widget_tag_cloud ul a {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .widget_tag_cloud ul a:hover, [class*="swatch-"] .swatch-forcyd-dark .widget_tag_cloud ul a:hover {
+  background: rgba(88, 182, 192, 0.9);
+  color: white;
+}
+.swatch-forcyd-dark .widget_calendar tbody a, [class*="swatch-"] .swatch-forcyd-dark .widget_calendar tbody a {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .widget_calendar tbody a:hover, [class*="swatch-"] .swatch-forcyd-dark .widget_calendar tbody a:hover {
+  background: #63bce9;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .widget_calendar tfoot, [class*="swatch-"] .swatch-forcyd-dark .widget_calendar tfoot {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .widget_nav_menu .sub-menu li:before, [class*="swatch-"] .swatch-forcyd-dark .widget_nav_menu .sub-menu li:before {
+  color: #e9e9e9;
+}
+.swatch-forcyd-dark .widget_oxy_twitter li:before, [class*="swatch-"] .swatch-forcyd-dark .widget_oxy_twitter li:before {
+  color: #82c9ed;
+}
+.swatch-forcyd-dark .top-search form, [class*="swatch-"] .swatch-forcyd-dark .top-search form {
+  background-color: #3494ba;
+}
+.swatch-forcyd-dark .top-search input, [class*="swatch-"] .swatch-forcyd-dark .top-search input {
+  background: none;
+  color: white;
+}
+.swatch-forcyd-dark .top-search input:focus, [class*="swatch-"] .swatch-forcyd-dark .top-search input:focus {
+  box-shadow: none;
+}
+.swatch-forcyd-dark .top-search input:-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark .top-search input:-moz-placeholder {
+  color: white;
+}
+.swatch-forcyd-dark .top-search input::-moz-placeholder, [class*="swatch-"] .swatch-forcyd-dark .top-search input::-moz-placeholder {
+  color: white;
+}
+.swatch-forcyd-dark .top-search input:-ms-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark .top-search input:-ms-input-placeholder {
+  color: white;
+}
+.swatch-forcyd-dark .top-search input::-webkit-input-placeholder, [class*="swatch-"] .swatch-forcyd-dark .top-search input::-webkit-input-placeholder {
+  color: white;
+}
+.swatch-forcyd-dark .top-search .search-close, [class*="swatch-"] .swatch-forcyd-dark .top-search .search-close {
+  color: white;
+}
+.swatch-forcyd-dark .top-search svg, [class*="swatch-"] .swatch-forcyd-dark .top-search svg {
+  stroke: #7a8c8e;
+}
+.swatch-forcyd-dark.top-bar a, [class*="swatch-"] .swatch-forcyd-dark.top-bar a {
+  color: white;
+}
+.swatch-forcyd-dark.top-bar a:hover, [class*="swatch-"] .swatch-forcyd-dark.top-bar a:hover {
+  color: white;
+}
+.swatch-forcyd-dark.top-bar .sidebar-widget:after, [class*="swatch-"] .swatch-forcyd-dark.top-bar .sidebar-widget:after {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .button, [class*="swatch-"] .swatch-forcyd-dark .button {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .button:hover, [class*="swatch-"] .swatch-forcyd-dark .button:hover {
+  background: rgba(88, 182, 192, 0.9);
+  color: white;
+}
+.swatch-forcyd-dark.section-commerce .breadcrumb, [class*="swatch-"] .swatch-forcyd-dark.section-commerce .breadcrumb {
+  background: none;
+  color: white;
+}
+.swatch-forcyd-dark.section-commerce .breadcrumb a, [class*="swatch-"] .swatch-forcyd-dark.section-commerce .breadcrumb a {
+  color: white;
+}
+.swatch-forcyd-dark.section-commerce .breadcrumb > li + li:before, [class*="swatch-"] .swatch-forcyd-dark.section-commerce .breadcrumb > li + li:before {
+  color: white;
+}
+.swatch-forcyd-dark .woocommerce-ordering .select-wrap, [class*="swatch-"] .swatch-forcyd-dark .woocommerce-ordering .select-wrap {
+  background: #58b6c0;
+}
+.swatch-forcyd-dark .woocommerce-ordering .select-wrap:after, [class*="swatch-"] .swatch-forcyd-dark .woocommerce-ordering .select-wrap:after {
+  color: white;
+}
+.swatch-forcyd-dark .woocommerce-ordering select, [class*="swatch-"] .swatch-forcyd-dark .woocommerce-ordering select {
+  color: white;
+  background: transparent;
+}
+.swatch-forcyd-dark .onsale, [class*="swatch-"] .swatch-forcyd-dark .onsale {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .price, [class*="swatch-"] .swatch-forcyd-dark .price {
+  color: white;
+}
+.swatch-forcyd-dark .page-numbers a, .swatch-forcyd-dark .page-numbers span, [class*="swatch-"] .swatch-forcyd-dark .page-numbers a, [class*="swatch-"] .swatch-forcyd-dark .page-numbers span {
+  color: white;
+}
+.swatch-forcyd-dark .page-numbers li, [class*="swatch-"] .swatch-forcyd-dark .page-numbers li {
+  background: #58b6c0;
+}
+.swatch-forcyd-dark .page-numbers .current, .swatch-forcyd-dark .page-numbers li a:hover, [class*="swatch-"] .swatch-forcyd-dark .page-numbers .current, [class*="swatch-"] .swatch-forcyd-dark .page-numbers li a:hover {
+  background: #e9e9e9;
+  color: white;
+}
+.swatch-forcyd-dark #reviews .comment, [class*="swatch-"] .swatch-forcyd-dark #reviews .comment {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.swatch-forcyd-dark #reviews .form-control, [class*="swatch-"] .swatch-forcyd-dark #reviews .form-control {
+  background: #3494ba;
+}
+.swatch-forcyd-dark #reviews input[type="submit"], [class*="swatch-"] .swatch-forcyd-dark #reviews input[type="submit"] {
+  background: white;
+  color: #58b6c0;
+}
+.swatch-forcyd-dark .related h2, .swatch-forcyd-dark .cross-sells h2, .swatch-forcyd-dark .upsells h2, [class*="swatch-"] .swatch-forcyd-dark .related h2, [class*="swatch-"] .swatch-forcyd-dark .cross-sells h2, [class*="swatch-"] .swatch-forcyd-dark .upsells h2 {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .product-category h3, [class*="swatch-"] .swatch-forcyd-dark .product-category h3 {
+  background: rgba(88, 182, 192, 0.85);
+  color: white;
+}
+.swatch-forcyd-dark .product-category h3 mark, [class*="swatch-"] .swatch-forcyd-dark .product-category h3 mark {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .product-nav a i, [class*="swatch-"] .swatch-forcyd-dark .product-nav a i {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .product-images figcaption, [class*="swatch-"] .swatch-forcyd-dark .product-images figcaption {
+  box-shadow: none;
+  background: #58b6c0;
+}
+.swatch-forcyd-dark .product-images figcaption i, [class*="swatch-"] .swatch-forcyd-dark .product-images figcaption i {
+  color: white;
+}
+.swatch-forcyd-dark .product-images .flex-active, [class*="swatch-"] .swatch-forcyd-dark .product-images .flex-active {
+  -moz-box-shadow: 0px 3px 0px #82c9ed;
+  -webkit-box-shadow: 0px 3px 0px #82c9ed;
+  box-shadow: 0px 3px 0px #82c9ed;
+}
+.swatch-forcyd-dark .order_details, [class*="swatch-"] .swatch-forcyd-dark .order_details {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .order_details li, [class*="swatch-"] .swatch-forcyd-dark .order_details li {
+  border-color: white;
+}
+.swatch-forcyd-dark .cart_list li, [class*="swatch-"] .swatch-forcyd-dark .cart_list li {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .cart-actions, [class*="swatch-"] .swatch-forcyd-dark .cart-actions {
+  background: #3494ba;
+}
+.swatch-forcyd-dark .widget_product_tag_cloud a, [class*="swatch-"] .swatch-forcyd-dark .widget_product_tag_cloud a {
+  background: #82c9ed;
+  color: #3494ba;
+}
+.swatch-forcyd-dark .widget_product_tag_cloud a:hover, [class*="swatch-"] .swatch-forcyd-dark .widget_product_tag_cloud a:hover {
+  background: rgba(130, 201, 237, 0.9);
+  color: #3494ba;
+}
+.swatch-forcyd-dark .product_list_widget li, [class*="swatch-"] .swatch-forcyd-dark .product_list_widget li {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .star-rating, [class*="swatch-"] .swatch-forcyd-dark .star-rating {
+  color: white;
+}
+.swatch-forcyd-dark .widget_price_filter .ui-slider .ui-slider-range, [class*="swatch-"] .swatch-forcyd-dark .widget_price_filter .ui-slider .ui-slider-range {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .widget_price_filter .ui-slider .ui-slider-handle, [class*="swatch-"] .swatch-forcyd-dark .widget_price_filter .ui-slider .ui-slider-handle {
+  background: #82c9ed;
+}
+.swatch-forcyd-dark .widget_product_search form:after, [class*="swatch-"] .swatch-forcyd-dark .widget_product_search form:after {
+  color: #3494ba;
+}
+.swatch-forcyd-dark .bbp-forums-list li, [class*="swatch-"] .swatch-forcyd-dark .bbp-forums-list li {
+  border-left-color: #58b6c0;
+}
+.swatch-forcyd-dark .bbp-topic-freshness-author:after, [class*="swatch-"] .swatch-forcyd-dark .bbp-topic-freshness-author:after {
+  background: #58b6c0;
+}
+.swatch-forcyd-dark .bbp-topic-permalink i, [class*="swatch-"] .swatch-forcyd-dark .bbp-topic-permalink i {
+  color: white;
+}
+.swatch-forcyd-dark .panel-bbpress, [class*="swatch-"] .swatch-forcyd-dark .panel-bbpress {
+  background: #3494ba;
+}
+.swatch-forcyd-dark .panel-bbpress .panel-heading, [class*="swatch-"] .swatch-forcyd-dark .panel-bbpress .panel-heading {
+  border-color: #58b6c0;
+}
+.swatch-forcyd-dark .panel-bbpress .panel-body, [class*="swatch-"] .swatch-forcyd-dark .panel-bbpress .panel-body {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .panel-bbpress .panel-warning, [class*="swatch-"] .swatch-forcyd-dark .panel-bbpress .panel-warning {
+  color: white;
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .panel-bbpress .bbp-template-notice, [class*="swatch-"] .swatch-forcyd-dark .panel-bbpress .bbp-template-notice {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .panel-bbpress .panel-footer, [class*="swatch-"] .swatch-forcyd-dark .panel-bbpress .panel-footer {
+  background: #e9e9e9;
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .label-bbpress, [class*="swatch-"] .swatch-forcyd-dark .label-bbpress {
+  background: transparent;
+  color: white;
+}
+.swatch-forcyd-dark .bbp-reply-content, [class*="swatch-"] .swatch-forcyd-dark .bbp-reply-content {
+  border-color: #e9e9e9;
+}
+.swatch-forcyd-dark .bbp-reply-content .media-heading, [class*="swatch-"] .swatch-forcyd-dark .bbp-reply-content .media-heading {
+  background: #f6f6f6;
+  border-color: gainsboro;
+}
+.swatch-forcyd-dark .bbp_author_details img, [class*="swatch-"] .swatch-forcyd-dark .bbp_author_details img {
+  background: #3494ba;
+  box-shadow: 0px 0px 0px 4px #e9e9e9;
+}
+.swatch-forcyd-dark .bbp_author_details:after, [class*="swatch-"] .swatch-forcyd-dark .bbp_author_details:after {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .bbp_author_details:hover img, [class*="swatch-"] .swatch-forcyd-dark .bbp_author_details:hover img {
+  box-shadow: 0px 0px 0px 4px white;
+}
+.swatch-forcyd-dark .bbpress-header .breadcrumb a, .swatch-forcyd-dark .bbpress-header .breadcrumb .active, [class*="swatch-"] .swatch-forcyd-dark .bbpress-header .breadcrumb a, [class*="swatch-"] .swatch-forcyd-dark .bbpress-header .breadcrumb .active {
+  color: white;
+}
+.swatch-forcyd-dark .bbpress-header .breadcrumb a:hover, [class*="swatch-"] .swatch-forcyd-dark .bbpress-header .breadcrumb a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-forcyd-dark .bbp-topic-tags a, [class*="swatch-"] .swatch-forcyd-dark .bbp-topic-tags a {
+  background: #58b6c0;
+  color: white;
+}
+.swatch-forcyd-dark .bbp-topic-tags a:hover, [class*="swatch-"] .swatch-forcyd-dark .bbp-topic-tags a:hover {
+  background: rgba(88, 182, 192, 0.9);
+}
+.swatch-forcyd-dark .bbp-logged-in, [class*="swatch-"] .swatch-forcyd-dark .bbp-logged-in {
+  background: #e9e9e9;
+}
+.swatch-forcyd-dark .bbp-logged-in .button, .swatch-forcyd-dark .bbp-logged-in .button:hover, [class*="swatch-"] .swatch-forcyd-dark .bbp-logged-in .button, [class*="swatch-"] .swatch-forcyd-dark .bbp-logged-in .button:hover {
+  color: white;
+}
+.swatch-forcyd-dark .post-count, [class*="swatch-"] .swatch-forcyd-dark .post-count {
+  background: #58b6c0;
+  color: white;
+}

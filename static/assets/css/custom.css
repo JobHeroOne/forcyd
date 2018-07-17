@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+a:link {
+  color: black;
+}
+
+a:active,
+a:hover {
+  color: red;
+}
